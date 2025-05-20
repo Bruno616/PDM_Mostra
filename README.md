@@ -14,3 +14,5 @@
 
 A ideia surgiu a partir da observação de como o cinema e os games muitas vezes se conectam, criando experiências que expandem universos narrativos e conquistam públicos diversos. Este protótipo pode servir como base para um site informativo, um projeto acadêmico ou até um repositório para fãs e estudiosos da relação entre cinema e jogos.
 </p>
+
+
