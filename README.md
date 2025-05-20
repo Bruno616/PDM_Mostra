@@ -5,7 +5,7 @@
 <h2>Integrantes</h2>
 <p>
   Bruno Queiroz Plata <br>
-  Kevin Novais
+  Kevin Novais Bezerra
 </p>
 
 <h2>Descrição do Projeto</h2>
