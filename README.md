@@ -18,5 +18,5 @@
 - [Home](https://github.com/Bruno616/PDM_Mostra/wiki)
 - [Visão geral](https://github.com/Bruno616/PDM_Mostra/wiki/1.-Visao-geral)
 - [Tela e funcionalidade](https://github.com/Bruno616/PDM_Mostra/wiki/2.-Telas-e-funcionalidade)
-- [Mapa de navegação]([wiki/Mapa-de-Navegação](https://github.com/Bruno616/PDM_Mostra/wiki/3.-Mapa-de-Navegação))
+- [Mapa de navegação](https://github.com/Bruno616/PDM_Mostra/wiki/3.-Mapa-de-Navegacao)
 - [Widgets](wiki/Widgets-do-aplicativo)
