@@ -17,6 +17,6 @@
 
 - [Home](wiki/Home)
 - [Visão geral](wiki/1.-Visão-geral)
-- [Tela e funcionalidade](wiki/Telas-e-funcionalidade)
+- [Tela e funcionalidade](PDM_Mostra/wiki/2.-Telas-e-funcionalidade)
 - [Mapa de navegação](wiki/Mapa-de-Navegação)
 - [Widgets](wiki/Widgets-do-aplicativo)
