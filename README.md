@@ -15,7 +15,7 @@
 
 ## Acesso rápido à Wiki do projeto:
 
-- [Home](wiki/Home)
+- [Home](https://github.com/Bruno616/PDM_Mostra/wiki)
 - [Visão geral](wiki/1.-Visão-geral)
 - [Tela e funcionalidade](wiki/2.-Telas-e-funcionalidade)
 - [Mapa de navegação](wiki/Mapa-de-Navegação)
