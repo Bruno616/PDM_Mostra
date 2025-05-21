@@ -16,7 +16,7 @@
 ## Acesso rápido à Wiki do projeto:
 
 - [Home](wiki/Home)
-- [Visão geral](wiki/Visão-geral)
+- [Visão geral](wiki/1.-Visão-geral)
 - [Tela e funcionalidade](wiki/Telas-e-funcionalidade)
 - [Mapa de navegação](wiki/Mapa-de-Navegação)
 - [Widgets](wiki/Widgets-do-aplicativo)
