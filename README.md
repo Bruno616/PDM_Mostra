@@ -13,6 +13,11 @@
   Este projeto é um protótipo de vitrine digital que reúne jogos eletrônicos baseados em filmes famosos. A proposta é apresentar, de forma organizada e interativa, informações relevantes sobre cada jogo, incluindo trailer, sinopse, galeria, elenco, desenvolvedora, plataformas e mais.
 </p>
 
+<h2>Relatório</h2>
+Bruno Queiroz Plata: Codificação do arquivo mobile, dcmentação do Github
+
+Kevin Novais Bezerra: Documentção do Github, codificação do arquivo mobile
+
 ## Sumário
 
 - [Home](https://github.com/Bruno616/PDM_Mostra/wiki)
