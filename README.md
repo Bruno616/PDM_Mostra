@@ -14,9 +14,9 @@
 </p>
 
 <h2>Relatório</h2>
-Bruno Queiroz Plata: Codificação do arquivo mobile, dcmentação do Github
+Bruno Queiroz Plata: Codificação do arquivo mobile, dcmentação do Github, procurou as imagens
 
-Kevin Novais Bezerra: Documentção do Github, codificação do arquivo mobile
+Kevin Novais Bezerra: Documentção do Github, codificação do arquivo mobile, criação da wiki
 
 ## Sumário
 
