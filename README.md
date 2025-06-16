@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# jogos
-
-A new Flutter project.
-=======
 # PDM_Mostra
 
 <h1>Gamescine</h1>
@@ -19,7 +14,7 @@ A new Flutter project.
 </p>
 
 <h2>Relatório</h2>
-Bruno Queiroz Plata: Codificação do arquivo mobile, dcmentação do Github, procurou as imagens
+Bruno Queiroz Plata: Codificação do arquivo mobile, domentação do Github, procurou as imagens
 
 Kevin Novais Bezerra: Documentção do Github, codificação do arquivo mobile, criação da wiki
 
