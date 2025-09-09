@@ -1,0 +1,79 @@
+{
+  "app": {
+    "catalogo": [
+      {
+        "id": 1,
+        "nome": "A Quiet Place: The Road Ahead",
+        "data_lancamento": "17/10/2024",
+        "produtora": "Interactive",
+        "genero": "Survival Horror",
+        "plataformas": ["PC (Steam)", "PlayStation 5", "Xbox Series X/S"],
+        "modo": "Single-player",
+        "sinopse": "Em um mundo pós-apocalíptico dominado por criaturas sensíveis ao som, você assume o papel de Alex 
+Taylor, uma jovem asmática que deve sobreviver em silêncio. Com mecânicas inovadoras que utilizam o microfone do jogador, 
+qualquer ruído pode ser fatal.",
+        "imagens": ["quiet1.jpg","quiet2.jpg","quiet3.jpg","quiet4.jpg"],
+        "redes": {
+          "facebook": "https://www.facebook.com/share/1B3xXFu2uH/",
+          "instagram": "https://www.instagram.com/aquietplace?igsh=MXNhdHh4dmk3YWkwMQ==",
+          "twitter": "https://x.com/AQuietPlaceGame?t=FqFiFxmBE2nMhOhYOtFpFQ&s=09",
+          "site_oficial": "https://store.steampowered.com/app/2686220/A_Quiet_Place_The_Road_Ahead/"
+        }
+      },
+      {
+        "id": 2,
+        "nome": "Wreck-it Ralph",
+        "data_lancamento": "30/10/2012",
+        "produtora": "Pipeworks Software",
+        "genero": "Ação / Plataforma",
+        "plataformas": ["Nintendo Wii", "Nintendo DS", "Nintendo 3DS"],
+        "modo": "Single-player",
+        "sinopse": "Baseado no filme da Disney, o jogo segue Ralph e Felix em uma nova aventura para salvar o mundo dos 
+jogos dos perigosos Cy-Bugs.",
+        "imagens": ["ralph.jpg","ralph1.jpg","ralph2.jpg","ralph3.jpg"],
+        "redes": {
+          "facebook": "https://www.facebook.com/Disney/?locale=pt_BR",
+          "instagram": "https://www.instagram.com/disney/",
+          "twitter": "https://x.com/Disney",
+          "site_oficial": "https://www.imdb.com/title/tt1772341/"
+        }
+      },
+      {
+        "id": 3,
+        "nome": "Shrek the Third",
+        "data_lancamento": "01/06/2007",
+        "produtora": "Activision",
+        "genero": "Aventura / Ação / Plataforma",
+        "plataformas": ["PlayStation 2", "PC", "Wii", "PSP", "Nintendo DS", "Xbox 360"],
+        "modo": "Single-player / Multiplayer",
+        "sinopse": "Baseado no filme icônico, o jogo acompanha Shrek e seus amigos em uma jornada para encontrar o herdeiro 
+do trono de Tão Tão Distante.",
+        "imagens": ["shrek.jpg","shrek1.jpg","shrek2.jpg","shrek3.jpg"],
+        "redes": {
+          "facebook": "https://www.facebook.com/share/16sUZ8bK5d/",
+          "instagram": "https://www.instagram.com/dreamworks?igsh=MXU2aGh1NWw0czhiNA==",
+          "twitter": "https://x.com/Dreamworks?t=xNWQ4y1Ccl7nmUd6np1Acg&s=09",
+          "site_oficial": "https://www.imdb.com/title/tt0413267/"
+        }
+      },
+      {
+        "id": 4,
+        "nome": "Harry Potter and the Deathly Hallows - Part 2",
+        "data_lancamento": "12/07/2011",
+        "produtora": "Electronic Arts",
+        "genero": "Ação / Aventura",
+        "plataformas": ["Xbox", "Wii", "PC", "PlayStation 3"],
+        "modo": "Single-player",
+        "sinopse": "Continua a batalha final contra Voldemort neste jogo que segue os eventos do último filme da saga Harry 
+Potter.",
+        "imagens": ["hp.jpg","hp1.jpg","hp2.jpg","hp3.jpg"],
+        "redes": {
+          "facebook": "https://www.facebook.com/EA/",
+          "instagram": "https://www.instagram.com/ea/",
+          "twitter": "https://x.com/ea",
+          "site_oficial": "https://www.imdb.com/title/tt1201607/"
+        }
+      }
+    ]
+  }
+}
