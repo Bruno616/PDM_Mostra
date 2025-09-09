@@ -22,7 +22,7 @@ Kevin Novais Bezerra: Documentção do Github, codificação do arquivo mobile, 
 
 - [Home](https://github.com/Bruno616/PDM_Mostra/wiki)
 - [Visão geral](https://github.com/Bruno616/PDM_Mostra/wiki/1.-Visao-geral)
-- [Prototipo](https://github.com/Bruno616/PDM_Mostra/wiki/2.-Telas-e-funcionalidade)
+- [Prototipo](https://github.com/Bruno616/PDM_Mostra/wiki/2.-Prototipo)
 - [Mapa de navegação](https://github.com/Bruno616/PDM_Mostra/wiki/3.-Mapa-de-Navegacao)
 - [Mvp Antigo - 3°Bimestre](https://github.com/Bruno616/PDM_Mostra/wiki/4.-Widgets-do-aplicativo)
 - [Mvp Novo - 4°Bimestre](https://github.com/Bruno616/PDM_Mostra/wiki/5.-Mvp)
