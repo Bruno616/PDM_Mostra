@@ -3,9 +3,16 @@
 <h1>Gamescine</h1>
 
 <h2>Integrantes</h2>
+<h3>2°Bimestre</h3>
 <p>
   Bruno Queiroz Plata <br>
   Kevin Novais Bezerra
+</p>
+
+<h3>3°Bimestre</h3>
+<p>
+  Bruno Queiroz Plata <br>
+  Lucas Soares de Araujo
 </p>
 
 <h2>Descrição do Projeto</h2>
